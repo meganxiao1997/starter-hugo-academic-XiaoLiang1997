@@ -31,7 +31,7 @@ abstract: The COVID-19 pandemic shocked the economy of China in early 2020.
   vocational graduate was participating, and whether the individual was in a
   management position.
 draft: false
-featured: false
+featured: true
 tags:
   - Source Themes
 slides: https://drive.google.com/file/d/1vXewsMGrmw2l_5jZ2w7V3IDWf_AyAu9a/view?usp=sharing
@@ -56,8 +56,7 @@ publication: China Economic Review
 projects: []
 date: 2023-04-23T04:30:28.373Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
