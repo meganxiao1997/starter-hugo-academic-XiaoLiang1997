@@ -46,11 +46,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-author_notes:
-  - COVID-19 pandemic
-  - Labor market outcome
-  - Vocational graduates
-  - China
+author_notes: []
 doi: 10.1016/j.chieco.2022.101832
 publication: China Economic Review
 projects: []
