@@ -10,12 +10,12 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: liangxiao2018@pku.edu.cn
+    link: "mailto: liangxiao2018@pku.edu.cn"
     display:
       header: false
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/186RauF_MidtERBFWU-F0Ge1CYYC-j_KS/view?usp=share_link
     label: https://drive.google.com/file/d/186RauF_MidtERBFWU-F0Ge1CYYC-j_KS/view?usp=share_link
     display:
       header: true
