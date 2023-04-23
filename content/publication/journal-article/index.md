@@ -40,7 +40,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-  filename: ""
+  filename: https://ars.els-cdn.com/content/image/1-s2.0-S1043951X22000906-gr3_lrg.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
