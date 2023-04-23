@@ -1,6 +1,7 @@
 ---
 title: Xiao Liang 梁潇
 role: ""
+avatar_filename: wechatimg8.jpeg
 bio: ""
 interests:
   - Development Economics
@@ -39,8 +40,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am a Ph.D. student in Agricultural Economics at Peking University, and currently a visiting student researcher at Stanford Univeristy. 
+I am a Ph.D. student in Agricultural Economics at Peking University, and currently a visiting student researcher at Stanford University. 
 
-My work focuses on labor economics and education economics, especially about vocational education in China. In my future research, I plan to assess the impact of education tracks and specific module in vocational education (e.g., workplace learning program) on individuals' labor market outcomes using longitudinal data.
-
-{style="text-align: justify;"}
+My research interests lie in labor economics and education economics, with a particular focus on vocational education in China. In my future work, I aim to evaluate the effects of different educational tracks and modules within vocational education (such as workplace learning programs) on individuals' labor market outcomes using longitudinal data.
