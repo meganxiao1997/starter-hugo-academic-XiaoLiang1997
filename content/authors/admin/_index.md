@@ -16,6 +16,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    label: https://drive.google.com/file/d/186RauF_MidtERBFWU-F0Ge1CYYC-j_KS/view?usp=share_link
+    display:
+      header: true
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
