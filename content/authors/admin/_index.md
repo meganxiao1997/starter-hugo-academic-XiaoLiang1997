@@ -1,7 +1,7 @@
 ---
 title: Xiao Liang 梁潇
 role: ""
-avatar_filename: https://drive.google.com/file/d/1_EdJiqqslhEFzcyU04P1gDeXBjKI3M3M/view?usp=sharing
+avatar_filename: megan.jpeg
 bio: ""
 interests:
   - Development Economics
